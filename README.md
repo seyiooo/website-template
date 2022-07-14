@@ -1,5 +1,5 @@
 <div align="center"><h1>Website Template</h1></div>
-A simple template to use TypeScript and SASS.
+A simple template to init easely a web project.
 
 # Summary
 - [Installation](#installation)
